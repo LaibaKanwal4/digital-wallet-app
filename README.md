@@ -45,7 +45,7 @@ Before you begin, ensure you have the following installed:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Laiba-Kanwal-04/digital-wallet-app.git
+git clone https://github.com/LaibaKanwal4/digital-wallet-app.git
 cd digital-wallet-app
 ```
 
@@ -123,7 +123,7 @@ digital-wallet-app/
 │       └── utils.js        # Utility functions
 ├── db-schema.sql           # Complete database schema
 ├── package.json
-├── .env.example            # Example environment variables
+├── .env                    # Example environment variables
 └── README.md
 ```
 
